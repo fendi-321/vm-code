@@ -1,4 +1,3 @@
-
 UPTIME VM--1
 $stat = 'sys.osuptime.latest'
 $entity = Get-VM c4t25001
